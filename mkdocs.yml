@@ -1,0 +1,9 @@
+site_name: Api-Productos
+
+nav:
+  - Inicio: index.md
+  - Instalación: instalacion.md
+  - Arquitectura: arquitectura.md
+  - Despliegue: despliegue.md
+  - Operación: operacion.md
+  - API: api.md
